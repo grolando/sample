@@ -1,6 +1,6 @@
 # Introduction
 During the next year you will learn the fundamentals of data science.
-Surviving the nine course which make up the [Data Science Specialization] [0001] offerese by 
+Surviving the nine course which make up the [Data Science Specialization] [0001] offered by 
 [Johns Hopkins University][jhu] requires a **strategy**.
 To this end, the focus of the ten-course series including a capstone project is to provide the learner with:
 1. an intorduction to the key ideas behind reproducible research,
